@@ -1,7 +1,7 @@
 
 # Soozan Project Parameters <img src="https://img.shields.io/badge/Files_and_Images-red"> <img src="https://img.shields.io/badge/Assets-orange"> 
 > Assets used in Soozan Project
-> <img src="https://github.com/X-Mohsen/Soozan-Graphics/blob/main/Soozan-Logo%3Dimg/logo-main-color-no-bg.png" align="right" style="width: 250px; height: auto;"/>
+> <img src="https://github.com/X-Mohsen/Soozan-Graphics/blob/main/images/soozan-logo/logo-main-color-no-bg.png" align="right" style="width: 250px; height: auto;"/>
 
 We ended up creating a new repo for our projects parameters !
 including :
